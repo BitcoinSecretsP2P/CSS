@@ -6,7 +6,7 @@
             padding: 0;
             height: 100vh;
             overflow: hidden;
-            background-image: url('logo.png'); /* استبدل هذا بمسار الصورة الخلفية */
+            background-image: url('https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg'); /* استبدل هذا بمسار الصورة الخلفية */
             background-size: cover;
             background-position: center;
             display: flex;
